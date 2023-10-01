@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255549881528",
+    "project_id": "chropsicard",
+    "storage_bucket": "chropsicard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255549881528:android:d06ead67eb31e6574a484d",
+        "android_client_info": {
+          "package_name": "com.arixpower.print_id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255549881528-l7dlfnpgs23iguitvqup4lqdlifmshbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS1WpjuipdF4bE4UGU2lR_Nv48zzSR0TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255549881528-l7dlfnpgs23iguitvqup4lqdlifmshbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
